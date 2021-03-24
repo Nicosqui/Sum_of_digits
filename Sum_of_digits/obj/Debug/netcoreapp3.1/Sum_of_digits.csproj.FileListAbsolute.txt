@@ -1,0 +1,13 @@
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\bin\Debug\netcoreapp3.1\Sum_of_digits.exe
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\bin\Debug\netcoreapp3.1\Sum_of_digits.deps.json
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\bin\Debug\netcoreapp3.1\Sum_of_digits.runtimeconfig.json
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\bin\Debug\netcoreapp3.1\Sum_of_digits.runtimeconfig.dev.json
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\bin\Debug\netcoreapp3.1\Sum_of_digits.dll
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\bin\Debug\netcoreapp3.1\Sum_of_digits.pdb
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.AssemblyInfo.cs
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.dll
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.pdb
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Sum_of_digits\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.genruntimeconfig.cache
